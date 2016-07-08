@@ -1,0 +1,21 @@
+# Site settings
+title: Jensen's Profile
+email: Jensenfleming@github.com
+description: > # this means to ignore newlines until "baseurl:"
+  Learn to use GitHub pages with Wheelhouse.io and Patchwork!
+baseurl: "/patchwork-gh-pages-24"
+url: "http://jensenfleming.github.io"
+twitter_username: jensenfleming
+github_username:  jensenfleming
+permalink: /blog/:year/:title/
+
+
+# Build settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
+
+collections:
+    - index
