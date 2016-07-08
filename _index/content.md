@@ -1,7 +1,7 @@
 ---
-profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
-title: "Education Consultant"
+profileimage: "https://www.facebook.com/photo.php?fbid=981135255333194&set=a.200769436703117.42915.100003101863468&type=3&theater"
+name: "Jense Fleming"
+title: "CSR"
 ---
 
 #### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
