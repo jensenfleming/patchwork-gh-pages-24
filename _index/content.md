@@ -1,28 +1,8 @@
 ---
 profileimage: "https://raw.githubusercontent.com/jensenfleming/patchwork-gh-pages-24/gh-pages/_index/IMG_0053.jpg"
 name: "Jensen Fleming"
-title: "CSR"
+title: "Wanderer"
 ---
 
-#### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
+#### *Jensen is a part time SF Tech Cliche with a desire to travel to remote places.*
 
-His accomplishments include designing and building career-oriented programs at [General Assembly](http://generalassemb.ly) while managing an international team of 16, building online courses for public companies as a freelance consultant, and founding [a company](http://www.wheelhouse.io) that provides modern software development training to Fortune 500 companies.
-
-Adrian is available for projects on a case by case basis. Some of the services he provides include:
-
-#### Strategic Consulting
-* Competitive analysis
-* Business and fincancial modeling
-* Decision making frameworks
-* Open-ended strategic sessions
-* Strategic offsites for management teams
-
-#### Management Consulting
-* Oranization structuring
-* Culture development
-* Management coaching
-* Interviewing, hiring, and onboarding process creation
-
-#### Education Design and Management
-* Course development
-* Process creation for course authoring teams
